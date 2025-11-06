@@ -9,6 +9,7 @@ It provides a centralized platform for tracking vehicles, managing driver detail
 By integrating frontend and backend modules with a powerful database, the system ensures smooth data management, operational transparency, and streamlined workflows for transport administrators and HR departments.
 
 ⚙️ Key Features
+
 🚘 Vehicle Management
 
 Add, view, edit, and delete vehicle records.
@@ -82,13 +83,13 @@ Reports & Analytics
 Generate visual or tabular reports on trips, duties, and maintenance logs.
 
 🧠 Technologies Used
+
 Layer	Technology
-Frontend	React.js, HTML5, CSS3, JavaScript, Axios
-Backend	Node.js, Express.js
-Database	Microsoft SQL Server
-Authentication	JSON Web Token (JWT)
-File Storage	Multer (for file uploads)
-Scheduling	Node-Cron (for background tasks)
+Frontend  -	React.js
+Backend  -	Node.js, Express.js
+Database  -	Microsoft SQL Server
+File Storage  -	Multer (for file uploads)
+Scheduling	-  Node-Cron (for background tasks)
 Version Control	Git & GitHub
 Other Tools	Postman (API testing), VS Code (development)
 
